@@ -1,0 +1,2 @@
+# pirma
+Nrd akademijo repositorija
